@@ -1,0 +1,3 @@
+service:
+  podDefaults:
+    image: hello/world:aaaa333
